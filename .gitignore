@@ -1,0 +1,11 @@
+# Directories
+.vs
+x64/
+Debug/
+
+# Files
+*.obj
+*.exe
+*.res
+*.log
+*.user
